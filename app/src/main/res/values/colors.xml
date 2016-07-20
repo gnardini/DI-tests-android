@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="prime_green_1">#1abc9c</color>
+    <color name="prime_green_2">#045647</color>
+    <color name="prime_orange_1">#f39c12</color>
+    <color name="prime_orange_2">#fef7eb</color>
+    <color name="prime_light_blue_1">#08d9fc</color>
+    <color name="prime_light_blue_2">#ecfcff</color>
+    <color name="prime_purple_1">#b230de</color>
+    <color name="prime_purple_2">#f9effd</color>
+    <color name="prime_green_3">#a9d800</color>
+    <color name="prime_green_4">#f9fcea</color>
+    <color name="prime_red">#d4145a</color>
+    <color name="prime_grey_1">#979797</color>
+    <color name="prime_grey_2">#acacac</color>
+    <color name="prime_grey_3">#f0f0f0</color>
+    <color name="prime_grey_4">#9B9B9B</color>
+    <color name="prime_grey_5">#6d6d6d</color>
+    <color name="prime_grey_6">#afafaf</color>
+    <color name="prime_grey_7">#d2d2d2</color>
+    <color name="prime_grey_8">#4a4a4a</color>
+    <color name="prime_white_1">#ffffff</color>
+    <color name="prime_white_2">#eeeeee</color>
+    <color name="prime_black">#000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="prime_black_transparent">#8a000000</color>
+
+</resources>

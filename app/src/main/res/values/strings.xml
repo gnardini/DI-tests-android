@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">TestApplication</string>
+
+    <!-- Login -->
+    <string name="auth_alert_error">Couln\'t login in PRIME</string>
+    <string name="auth_alert_error_auth_subtitle">Your email or password appears to be invalid.</string>
+    <string name="auth_alert_error_unknown_subtitle">Something went wrong. Try again later.</string>
+    <string name="auth_alert_ok">OK</string>
+    <string name="auth_button_login">Log in</string>
+    <string name="auth_prime_subtitle">This is PRIME.</string>
+    <string name="auth_prime_forgot_user_pass">Forgot your username or password?</string>
+    <string name="auth_need_new_user">New user? Sign up here</string>
+    <string name="auth_your_email">Your email</string>
+    <string name="auth_password">Password</string>
+    <string name="logout">Logout</string>
+
+</resources>
